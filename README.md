@@ -4,8 +4,8 @@
 
 ### 🎓 Education
 
-- 🌌 **BSc Physics** - Astrophysics department, University of Athens
-- 📊 **MSc Simulation and Data Science** - Cyprus Institute
+- 🌌 **BSc Physics** - Astrophysics department, University of Athens, Greece
+- 📊 **MSc Simulation and Data Science** - The Cyprus Institute, Cyprus
 
 ---
 
